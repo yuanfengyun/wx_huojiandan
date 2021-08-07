@@ -1,0 +1,31 @@
+<!--index.wxml-->
+<view class="page-body">
+    <view class="view_fengexian">
+	<view ></view>
+        <text class="text_fengexian">** 现货数据 **</text>
+        <view ></view>
+    </view>
+    <button type="primary" catchtap='egg_btn'>鸡蛋历史价格</button>
+    <button type="primary" catchtap='ji_btn'>蛋鸡存栏数据</button>
+    <button type="primary" catchtap='ji_btn'>养殖成本数据</button>
+    <text>\n</text>
+    <view class="view_fengexian">
+	    <view ></view>
+        <text class="text_fengexian">** 历史合约 **</text>
+        <view ></view>
+    </view>
+    <button type="primary" catchtap='xx0x_btn'>合约跨年对比</button>
+    <button type="primary" catchtap='basis_btn'>基差跨年对比</button>
+    <button type="primary" catchtap='basis_year_btn'>每年基差走势</button>
+    <text>\n</text>
+    <view class="view_fengexian">
+	<view ></view>
+        <text class="text_fengexian">** 跨期套利 **</text>
+        <view ></view>
+    </view>
+
+    <button type="primary" catchtap='df1_btn'>跨1月价差图</button>
+    <button type="primary" catchtap='df2_btn'>跨2月价差图</button>
+    <button type="primary" catchtap='df3_btn'>跨3月价差图</button>
+    <button type="primary" catchtap='df4_btn'>跨4月价差图</button>
+</view>

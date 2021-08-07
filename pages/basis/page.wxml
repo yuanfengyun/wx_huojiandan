@@ -1,0 +1,16 @@
+<view>
+  <swiper>
+    <swiper-item><image src='http://yungege.top/pictures/conbine_basis/01.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/conbine_basis/02.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/conbine_basis/03.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/conbine_basis/04.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/conbine_basis/05.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/conbine_basis/06.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/conbine_basis/07.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/conbine_basis/08.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/conbine_basis/09.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/conbine_basis/10.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/conbine_basis/11.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/conbine_basis/12.png'></image></swiper-item>
+  </swiper>
+</view>

@@ -1,0 +1,12 @@
+<view>
+  <swiper>
+    <swiper-item><image src='http://yungege.top/pictures/basis/14.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/basis/15.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/basis/16.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/basis/17.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/basis/18.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/basis/19.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/basis/20.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/basis/21.png'></image></swiper-item>
+  </swiper>
+</view>

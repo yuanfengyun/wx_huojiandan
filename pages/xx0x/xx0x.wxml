@@ -1,0 +1,22 @@
+<view>
+  <!-- 
+indicator-dots='true':是否显示面板指示点,默认为false
+indicator-color='red':指示点颜色
+indicator-active-color='yellow':当前选中的指示点颜色
+autoplay='true':是否自动切换
+ -->
+  <swiper>
+    <swiper-item><image src='http://yungege.top/pictures/jdxx0x/01.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/jdxx0x/02.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/jdxx0x/03.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/jdxx0x/04.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/jdxx0x/05.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/jdxx0x/06.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/jdxx0x/07.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/jdxx0x/08.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/jdxx0x/09.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/jdxx0x/10.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/jdxx0x/11.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/jdxx0x/12.png'></image></swiper-item>
+  </swiper>
+</view>

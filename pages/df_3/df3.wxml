@@ -1,0 +1,16 @@
+<view>
+  <swiper>
+    <swiper-item><image src='http://yungege.top/pictures/3_month_diff/01_04.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/3_month_diff/02_05.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/3_month_diff/03_06.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/3_month_diff/04_07.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/3_month_diff/05_08.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/3_month_diff/06_09.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/3_month_diff/07_10.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/3_month_diff/08_11.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/3_month_diff/09_12.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/3_month_diff/10_01.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/3_month_diff/11_02.png'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top/pictures/3_month_diff/12_03.png'></image></swiper-item>
+  </swiper>
+</view>
