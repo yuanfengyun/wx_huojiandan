@@ -1,6 +1,5 @@
 <view>
   <swiper>
-    <swiper-item><image src='http://yungege.top/pictures/dayanglu_egg_price_2014-2020.jpg'></image></swiper-item>
-    <swiper-item><image src='http://yungege.top/pictures/dayanglu_egg_price_2014-2020.jpg'></image></swiper-item>
+    <swiper-item><image src='http://yungege.top:8000/pictures/dayanglu_egg_price_2014-2020.jpg'></image></swiper-item>
   </swiper>
 </view>
