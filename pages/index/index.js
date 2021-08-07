@@ -67,9 +67,64 @@ const pageObject = {
   },
   ji_btn() {
     //点击跳转到list页面
+    //wx.navigateTo({
+      //把app.json中的路径拿过来前面加上 / 就可以了
+      //url: '/pages/ji/ji',
+    //})
+    wx.showToast({
+
+      title: '联系火箭蛋群主',
+ 
+      icon: 'success',
+ 
+      duration: 2000//持续的时间
+ 
+    })
+  },
+  kaihu_btn() {
+    //点击跳转到list页面
+    //wx.navigateTo({
+      //把app.json中的路径拿过来前面加上 / 就可以了
+      //url: '/pages/ji/ji',
+    //})
+    wx.showToast({
+
+      title: '联系火箭蛋群主',
+ 
+      icon: 'success',
+ 
+      duration: 2000//持续的时间
+ 
+    })
+  },
+  ctp_btn() {
+    //点击跳转到list页面
+    //wx.navigateTo({
+      //把app.json中的路径拿过来前面加上 / 就可以了
+      //url: '/pages/ji/ji',
+    //})
+    wx.showToast({
+
+      title: '联系火箭蛋群主',
+ 
+      icon: 'success',
+ 
+      duration: 2000//持续的时间
+ 
+    })
+  },
+  chenben_btn() {
+    //点击跳转到list页面
     wx.navigateTo({
       //把app.json中的路径拿过来前面加上 / 就可以了
-      url: '/pages/ji/ji',
+      url: '/pages/chenben/ji',
+    })
+  },
+  note_btn() {
+    //点击跳转到list页面
+    wx.navigateTo({
+      //把app.json中的路径拿过来前面加上 / 就可以了
+      url: '/pages/note/ji',
     })
   },
   //开启小程序之旅按钮的点击事件

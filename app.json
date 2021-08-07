@@ -9,7 +9,9 @@
     "pages/basis/page",
     "pages/basis_year/page",
     "pages/egg/egg",
-    "pages/ji/ji"
+    "pages/ji/ji",
+    "pages/chenben/ji",
+    "pages/note/ji"
   ],
   "window": {
     "backgroundTextStyle": "light",
