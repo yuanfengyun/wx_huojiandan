@@ -1,1 +1,3 @@
-<!--pages/ji/ji.wxml-->
+<view>
+  <htmltowxml text="{{text}}" type="md" bindWxmlTagATap="wxmlTagATap" />
+</view>

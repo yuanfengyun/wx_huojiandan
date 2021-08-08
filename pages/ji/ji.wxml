@@ -1,2 +1,34 @@
-<!--pages/ji/ji.wxml-->
-<text>文件加载中，请稍后</text>
+<view class="table">
+  <view class="tr bg-w">
+    <view class="th ">年份</view>
+    <view class="th">一月</view>
+    <view class="th">二月</view>
+    <view class="th">三月</view>
+    <view class="th">四月</view>
+    <view class="th">五月</view>
+    <view class="th">六月</view>
+    <view class="th">七月</view>
+    <view class="th">八月</view>
+    <view class="th">九月</view>
+    <view class="th">十月</view>
+    <view class="th">十一</view>
+    <view class="th">十二</view>
+  </view>
+  <block wx:for="{{listData}}" wx:key="{{code}}">
+    <view class="tr">
+      <view class="td">{{item[0]}}</view>
+      <view class="td">{{item[1]}}</view>
+      <view class="td">{{item[2]}}</view>
+      <view class="td">{{item[3]}}</view>
+      <view class="td">{{item[4]}}</view>
+      <view class="td">{{item[5]}}</view>
+      <view class="td">{{item[6]}}</view>
+      <view class="td">{{item[7]}}</view>
+      <view class="td">{{item[8]}}</view>
+      <view class="td">{{item[9]}}</view>
+      <view class="td">{{item[10]}}</view>
+      <view class="td">{{item[11]}}</view>
+      <view class="td">{{item[12]}}</view>
+    </view>
+  </block>
+</view>

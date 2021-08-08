@@ -1,6 +1,8 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/note/ji",
+    "pages/ji/ji",
     "pages/xx0x/xx0x",
     "pages/df_1/df1",
     "pages/df_2/df2",
@@ -9,10 +11,14 @@
     "pages/basis/page",
     "pages/basis_year/page",
     "pages/egg/egg",
-    "pages/ji/ji",
-    "pages/chenben/ji",
-    "pages/note/ji"
+    "pages/chenben/ji"
   ],
+  "plugins": {
+      "htmltowxml": {
+        "version": "1.4.0",
+        "provider": "wxa51b9c855ae38f3c"
+    }
+  },
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",

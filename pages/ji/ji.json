@@ -1,3 +1,5 @@
 {
-  "usingComponents": {}
+  "usingComponents": {},
+  "pageOrientation": "landscape",
+  "navigationBarTitleText": "每月补栏数据"
 }

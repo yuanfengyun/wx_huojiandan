@@ -67,18 +67,9 @@ const pageObject = {
   },
   ji_btn() {
     //点击跳转到list页面
-    //wx.navigateTo({
+    wx.navigateTo({
       //把app.json中的路径拿过来前面加上 / 就可以了
-      //url: '/pages/ji/ji',
-    //})
-    wx.showToast({
-
-      title: '联系火箭蛋群主',
- 
-      icon: 'success',
- 
-      duration: 2000//持续的时间
- 
+      url: '/pages/ji/ji',
     })
   },
   kaihu_btn() {

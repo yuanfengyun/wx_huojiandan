@@ -1,4 +1,6 @@
 {
-  "usingComponents": {},
+  "usingComponents": {
+    "htmltowxml": "plugin://htmltowxml/view"
+  },
   "navigationBarTitleText": "鸡蛋套利实践手册 加载中..."
 }

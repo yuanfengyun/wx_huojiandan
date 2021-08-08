@@ -4,7 +4,7 @@ Page({
   },
   onLoad: function () {
     var that = this;
-    var filePath = "http://yungege.top:8000/chenben.xlsx";//对应的网络路径，可以是内网的或者外网
+    var filePath = "http://yungege.top/chenben.xlsx";//对应的网络路径，可以是内网的或者外网
     wx.showLoading({title:"加载中"});
     wx.downloadFile({//下载对应文件
       url: filePath,
