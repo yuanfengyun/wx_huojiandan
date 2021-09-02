@@ -7,7 +7,7 @@
     </view>
     <button type="primary" catchtap='egg_btn'>鸡蛋历史价格</button>
     <button type="primary" catchtap='ji_btn'>蛋鸡存栏数据</button>
-    <button type="primary" catchtap='chenben_btn'>养殖成本数据</button>
+    <!--button type="primary" catchtap='chenben_btn'>养殖成本数据</button-->
     <text>\n</text>
     <view class="view_fengexian">
 	    <view ></view>
@@ -36,6 +36,7 @@
     </view>
 
     <button type="primary" catchtap='note_btn'>鸡蛋套利实践手册</button>
-    <button type="primary" catchtap='ctp_btn'>CTP程序化交易</button>
+    <!--button type="primary" catchtap='ctp_btn'>CTP程序化交易</button-->
     <button type="primary" catchtap='kaihu_btn'>开户支持</button>
+    <text>\n</text>
 </view>
